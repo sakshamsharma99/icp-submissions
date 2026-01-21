@@ -1,5 +1,5 @@
 # ICP-Submission
-##📅 Week 1 – DSA Practice (LeetCode)
+## 📅 Week 1 – DSA Practice (LeetCode)
 | Order | Difficulty | Problem Name                                       | LeetCode No. | Topic               | Key Concept                                 |
 | ----- | ---------- | -------------------------------------------------- | ------------ | ------------------- | ------------------------------------------- |
 | 1     | EASY       | Best Time to Buy and Sell Stock                    | 121          | Array, Greedy       | Track minimum price and maximum profit      |
